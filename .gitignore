@@ -1,0 +1,42 @@
+# General
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Server specific
+server/node_modules/
+server/*.log
+server/*.pid
+
+# Client specific
+client/node_modules/
+client/build/
+client/.cache
+client/*.log
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Linux system files
+*.swp
+*~
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Archival files
+*.tar
+*.tar.gz
+*.gzip
+*.zip
+*.rar
