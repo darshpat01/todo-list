@@ -18,6 +18,7 @@ todo page
 <img width="1512" alt="todo page" src="https://github.com/darshpat01/todo-list/assets/68650149/4f3b8671-0fd9-4429-855c-f9bdd01c92b7">
 
 responsive
+
 <img width="325" alt="responsive" src="https://github.com/darshpat01/todo-list/assets/68650149/2f2dec65-6972-41ea-8db7-9d1cf208db4f">
  
 
