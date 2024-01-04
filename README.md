@@ -1,4 +1,4 @@
-
+<img width="1512" alt="todo page" src="https://github.com/darshpat01/todo-list/assets/68650149/0aac49b3-3a01-4d92-a246-a8133ade425e">
 # Todo-List
 
 To-do web app with authentication
@@ -8,6 +8,19 @@ To-do web app with authentication
 
 ## Screenshots
 
+login page
+<img width="1497" alt="login page" src="https://github.com/darshpat01/todo-list/assets/68650149/54944487-c92d-4e91-99dc-f70ca4494d4a">
+
+register page
+<img width="1502" alt="register page" src="https://github.com/darshpat01/todo-list/assets/68650149/e39c1361-57eb-4398-a5e9-0c0cda7bde40">
+
+
+todo page
+<img width="1512" alt="todo page" src="https://github.com/darshpat01/todo-list/assets/68650149/4f3b8671-0fd9-4429-855c-f9bdd01c92b7">
+
+responsive
+<img width="325" alt="responsive" src="https://github.com/darshpat01/todo-list/assets/68650149/2f2dec65-6972-41ea-8db7-9d1cf208db4f">
+ 
 
 
 ## Tech Stack
@@ -49,11 +62,11 @@ Assuming you are in the server folder
 
 the code will look like: 
 ```
-        db_connection=<MongoURL>
+        db_connection=<MongoURI>
         secret="Random String"
         PORT=5001
 ```
---> Replace <MongoURL> with your own MongoURL
+--> Replace <MongoURI> with your own MongoURI
 
 --> Save the env file. 
 
