@@ -133,7 +133,7 @@ const Todo = () => {
           >
             Logout
           </button>
-          <div className="text-center rounded backdrop-blur-sm bg-white/20 px-8 py-4 h-[80%] w-[30%] flex flex-col items-center justify-start">
+          <div className="text-center rounded backdrop-blur-sm bg-white/20 px-8 py-4 h-[80%] w-[90%] lg:w-[30%] flex flex-col items-center justify-start">
             <h1 className="select-none text-white text-xl font-bold my-4">
               <div className="capitalize flex justify-center items-center">
                 Hi {username}

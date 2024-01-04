@@ -45,7 +45,7 @@ const Login = () => {
         <div className="blob"></div>
         <div className="blob2"></div>
         <div className="flex justify-center items-center h-full w-full">
-          <div className="text-center rounded backdrop-blur-sm bg-white/20 px-8 py-4 h-[80%] w-[30%] flex flex-col items-center justify-center">
+          <div className="text-center rounded backdrop-blur-sm bg-white/20 px-8 py-4 h-[80%] w-[90%] lg:w-[30%] flex flex-col items-center justify-center">
             <img src={logo} alt="logo" className="w-36 pb-4" />
             <h1 className="font-bold text-2xl mb-4 text-white">
               Login to Your Account
