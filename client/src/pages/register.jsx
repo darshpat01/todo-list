@@ -1,7 +1,7 @@
 import logo from "../assets/logo.svg";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
-import { React, useState } from "react";
+import { useState } from "react";
 
 const Register = () => {
   const navigate = useNavigate();
