@@ -1,4 +1,3 @@
-<img width="1512" alt="todo page" src="https://github.com/darshpat01/todo-list/assets/68650149/0aac49b3-3a01-4d92-a246-a8133ade425e">
 # Todo-List
 
 To-do web app with authentication
