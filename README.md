@@ -24,7 +24,7 @@ responsive
 
 **Server:** Node.js, Express
 
-**Databse:** MongoDB
+**Database:** MongoDB
 
 ## How to run this app locally?
 
@@ -62,6 +62,11 @@ the code will look like:
 
 --> Replace <MongoURI> with your own MongoURI
 
+Example:
+
+![Screenshot 2024-01-04 at 7 25 48 PM](https://github.com/darshpat01/todo-list/assets/68650149/16179f42-c785-4563-8bf9-6422383ac786)
+
+
 --> Save the env file.
 
 --> Now on the terminal type
@@ -90,6 +95,11 @@ Go to the client folder
 ```
 
 --> In **Local**: ... you will be able to see the url where the frontend is running.
+
+Example: 
+
+![vite](https://github.com/darshpat01/todo-list/assets/68650149/6328017b-d078-4447-a915-b0f0d54d3130)
+
 
 --> Open that URL in the browser
 
